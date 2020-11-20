@@ -14,4 +14,4 @@ Include "kusama" as a command line argument to run this script on the Kusama net
 
 # Result
 
-![Polkadot Account Analysis](https://imgur.com/ZKKhtTX)
+![Polkadot Account Analysis](images/output.png)
